@@ -12,4 +12,4 @@
 ---
 今晚月亮很圆啊🌕  
 两极反转（🙃）
-![月亮两极反转](https://github.com/fou-fou/fou-fou.github.io/blob/master/images/0406-1.png)
+![月亮两极反转](/images/0406-1.png)
